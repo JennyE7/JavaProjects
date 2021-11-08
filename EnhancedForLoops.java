@@ -3,10 +3,10 @@ public class EnhancedForLoops {
 
 	public static void main(String[] args) {
 				
-		String[] familyArray = {"Jenny", "James", "Marshmallow", "Nutmeg", "Gimli"};
+		String[] namesArray = {"Jenny", "James", "Marshmallow", "Nutmeg", "Gimli"};
 		
-		for (int i = 0; i < familyArray.length; i++) {
-			System.out.println(familyArray[i]);
+		for (int i = 0; i < namesArray.length; i++) {
+			System.out.println(namesArray[i]);
 		}
 		
 		int[] numArray = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20};
